@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Project7
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            ObjectArray arr = new ObjectArray();
+            arr.Run();
+            Console.ReadLine();
+        }
+    }
+}
